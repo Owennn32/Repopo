@@ -1,0 +1,1 @@
+{"dimension": 1536, "engine_type": "LangChain", "index_type": "FlatL2", "model_type": "AOAI", "model_name": "gpt4turboSwedenCentral", "model_api_base": "https://gpt4turboswedencentral.openai.azure.com/", "model_api_version": "1106-Preview"}

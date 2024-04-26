@@ -1,0 +1,1893 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+
+
+	<link rel="icon" type="image/png" href="/img/app_icon.png" />
+	<link rel="apple-touch-icon" href="/img/touch-icon-iphone.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="/img/touch-icon-ipad.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="/img/touch-icon-iphone-retina.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="/img/touch-icon-ipad-retina.png" />
+
+
+	<title>環境與保育 - 國家地理雜誌中文網</title>
+
+	
+
+	<meta property="fb:app_id" content="708677648070117"/>
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.natgeomedia.com/environment/index.html" />
+	<meta property="og:title" content="環境與保育 - 國家地理雜誌中文網"/>
+	<meta property="og:description" content="" />
+	<meta property="og:image" content="https://www.natgeomedia.com/img/1200x630.jpg" />
+	<!--
+	<meta property="fb:pages" content="197396410423992">
+	<meta property="og:site_name" content="國家地理雜誌中文網" />
+	<meta property="og:image:alt" content="環境與保育 - 國家地理雜誌中文網" />
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	-->
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="環境與保育 - 國家地理雜誌中文網" />
+	<meta name="twitter:description" content="" />
+	<meta name="twitter:image" content="https://www.natgeomedia.com/img/1200x630.jpg" />
+
+	<meta name="Title" content="環境與保育 - 國家地理雜誌中文網" />
+	<meta name="keywords" content="環境與保育,Environment,國家地理雜誌中文網,Nat Geo" />
+	<meta name="news_keywords" content="環境與保育,Environment,國家地理雜誌中文網,Nat Geo" />
+	<meta name="description" content="" />
+	<link rel="image_src" href="https://www.natgeomedia.com/img/1200x630.jpg" />
+
+
+	<script type="text/javascript" src="/scripts/adajax.js"></script>
+	<script type="text/javascript" src="/scripts/address.js"></script>
+	<script type="text/javascript" src="/scripts/form_check.js"></script>
+
+	<meta name="google-site-verification" content="HFqEkJQ6tm-aL-1NoY7U7z26fCwRV5sGLrLNFSQb-Yo" />
+
+	<!-- Google AdSense JS -->
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+	<!-- 3rd Party Ads Display Network -->
+	<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+
+
+	<!-- Google Tag Manager -->
+	<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-PZNPVHG');</script> -->
+	<!-- End Google Tag Manager -->
+
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-48305649-1', 'auto');
+		ga('send', 'pageview');
+
+		setTimeout("ga('send', 'event', '1_seconds', 'read')",1000);
+	</script>
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-F0ZR674BM5"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function boulder_gtag(){dataLayer.push(arguments);}
+		boulder_gtag('js', new Date());
+		boulder_gtag('config', 'G-F0ZR674BM5');
+		boulder_gtag('event', 'pageview', {
+			'event_category': 'page_load',
+			'event_label': 'pageview'
+		});
+		setTimeout(function(){
+			boulder_gtag('event', '1_seconds', {
+				'event_category': 'page_load',
+				'event_label': 'read'
+			});
+		},1000)
+	</script>
+
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9562996560895758" crossorigin="anonymous"></script>
+
+
+
+
+	
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+
+	<style>
+		@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+		/*@import url(//fonts.googleapis.com/earlyaccess/cwtexming.css);*/
+	</style>
+
+	<link rel="stylesheet" type="text/css" href="/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+	<link rel="stylesheet" type="text/css" href="/css/layout.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+</head>
+
+<body>
+
+
+<!--     <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.11&appId=708677648070117';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script> -->
+    
+
+	<nav>
+		<!-- logo -->
+		<div class="ngm-logo">
+			<a href="/">
+				<img class="logo-b" src="/img/ngm-logo-b.svg" alt="">
+				<img class="logo-w hide" src="/img/ngm-logo-w.svg" alt="">
+			</a>
+		</div>
+
+		<!-- navigation-icon -->
+		<div class="nav-icon">
+			<div class="nav-icon-line nav-icon-line-1"></div>
+			<div class="nav-icon-line nav-icon-line-2"></div>
+			<div class="nav-icon-line nav-icon-line-3"></div>
+		</div>
+
+		<!-- icons -->
+		<div class="navbar-icons">
+			<!-- search -->
+			<div class="navbar-search">
+				<a href="javascript:void(0)">
+					<i class="fas fa-search"></i>
+				</a>
+			</div>
+
+			<!-- user -->
+			<div class="navbar-user">
+				<a href="javascript:void(0)">
+					<i class="fas fa-user"></i>
+				</a>
+			</div>
+
+			<!-- cart -->
+			<div class="navbar-cart">
+				<a href="/magazine.html">
+					<!-- black -->
+					<div class="navbar-cart-icon navbar-cart-b">
+						<img src="/img/icon-order-b.svg" alt="">
+					</div>
+
+					<!-- white -->
+					<div class="navbar-cart-icon navbar-cart-w hide">
+						<img src="/img/icon-order-w.svg" alt="">
+					</div>
+				</a>
+			</div>
+
+		</div>
+
+		<!-- user function -->
+		<div class="user-function">
+			
+			<!-- 未登入的狀態 -->
+			<div class="user-f-container user-login" style="display:block;">
+				<p>請先登入</p>
+				<div class="cube-btn user-btn">
+					登入
+					<a href="/member/login.asp"></a>	
+				</div>
+			</div>
+			
+		</div>
+
+
+		<!-- navgation-menu -->
+		<div class="nav-menu">
+			
+			<div class="menu-container">
+				<!-- menu-left -->
+				<div class="menu-content menu-left">
+					<ul>
+						<li>
+							<a href="/science/">科學與新知</a>
+						</li>
+
+						<li>
+							<a href="/environment/">環境與保育</a>
+						</li>
+
+						<li>
+							<a href="/history/">歷史與文化</a>
+						</li>
+
+						<li>
+							<a href="/explore/">探索與冒險</a>
+						</li>
+
+						<li>
+							<a href="/travel/">旅遊</a>
+						</li>
+
+						<li>
+							<a href="/special_projects/">主題企畫</a>
+						</li>
+					</ul>
+				</div>
+				
+
+				<!-- menu-right -->
+				<div class="menu-content menu-right">
+					<ul>
+						<li>會員專區</li>	
+
+						<li>
+							<a href="/member/login.asp">會員中心</a>
+						</li>
+
+						<!-- <li>
+							<a href="javascript:void(0)">購物車</a>
+						</li> -->
+
+						<li>
+							<a href="/e-mag/">電子雜誌</a>
+						</li>
+
+						<li>
+							<a href="/special-issue/">特刊</a>
+						</li>
+
+						
+					</ul>
+
+					<ul>
+						<li>相關連結</li>
+
+						<li>
+							<a href="/magazine.html">雜誌訂閱</a>
+						</li>
+
+						<li>
+							<a href="/book-news/">最新書訊</a>
+						</li>
+
+						<li>
+							<a href="/marketing/">活動</a>
+						</li>
+
+						<li>
+							<a href="https://shopee.tw/natgeomediatw" target="_blank">大石商城</a>
+						</li>
+
+						<li>
+							<a href="https://www.natgeomedia.com/scienceclub/" target="_blank">少年科學俱樂部</a>
+						</li>
+					</ul>
+
+				</div>
+				
+			</div>
+
+		</div>
+	</nav>
+	
+
+	<script src="/js/user-function.js"></script>
+
+
+	
+
+	<!-- search -->
+	<div class="search-load">
+		<section class="search-content">
+		
+			<div class="search-content-range">
+
+				<div class="search-check">
+					<input type="radio" class="Search-Type" name="sType" value="1" checked><span>全站搜尋</span>
+					<input type="radio" class="Search-Type" name="sType" value="2"><span>電子雜誌搜尋</span>
+				</div>
+				
+				<form name="Search-Form" action="/search/" method="get" onsubmit="return searchChk()">
+				<input type="hidden" id="cx-val" name="cx" value="07e9df721e2064180">
+				<input type="text" id="Search-Str" name="q" class="search-input" placeholder="請輸入搜尋關鍵字">
+				<button type="submit" class="search-submit-btn">
+					<i class="fas fa-search"></i>
+				</button>
+				</form>
+			</div>
+
+			<!-- close -->
+			<div class="icon-close search-close">
+				<div class="icon-close-line bg-white"></div>
+				<div class="icon-close-line bg-white"></div>
+			</div>
+
+		</section>
+	</div>
+
+	<script type="text/javascript">
+	function searchChk(){
+		if($('#Search-Str').val()==''){
+			alert('請輸入搜尋關鍵字');
+			return false;
+		}
+		return true;
+	}
+	$(function(){
+		$('.Search-Type').click(function(){
+			if(parseInt($(this).val())==1){
+				$('#cx-val').val('07e9df721e2064180');
+			}else{
+				$('#cx-val').val('750e5fd82889f4d7f');
+			}
+		});
+	});
+	</script>
+
+	
+
+
+	<!-- banner -->
+	<section class="unit-banner" style="background:url(/img/category/banner-environment.jpg) no-repeat;background-size:cover;background-position:50% 60%;">
+		<div class="banner-title">
+			<h3 class="banner-h3">Environment</h3>
+			<h2 class="banner-h2">環境與保育</h2>
+		</div>
+	</section>
+
+	
+	<!-- sub-nav -->
+	<div id="sub-nav" class="sub-nav">
+		<div class="sub-nav-container">
+			<ul class="scrollmenu-horizontal">
+				<a href="/environment/index.html">
+					<li class="sub-nav-active">全部</li>
+				</a>
+
+				<a href="/environment/article/index.html">
+					<li>文章總匯</li>
+				</a>
+
+				<a href="/environment/photo/index.html">
+					<li>每日一圖</li>
+				</a>
+
+				<a href="/environment/gallery/index.html">
+					<li>影像藝廊</li>
+				</a>
+
+				<a href="/environment/video/index.html">
+					<li>影音精選</li>
+				</a>
+			</ul>
+		</div>
+	</div>
+	
+
+
+	<!-- article content all -->
+	<section class="content-all">
+
+		<div class="article-link-content">
+			
+			<!-- top article link -->
+			
+			<div class="article-link-w100">
+
+				<!-- article btn large -->
+				<div class="artcle-btn-large">
+
+					<!-- large -->
+					
+					<div class="art-btn-large">
+						<div class="art-btn-la-content">
+							<a href="https://www.natgeomedia.com/environment/article/content-17186.html">
+								<!-- img -->
+								<div class="art-btn-la-img">
+									<img src="https://img.natgeomedia.com/userfiles/sm/sm564376_images_A1/17186/2024042386031745.jpg" alt="NOAA證實：全球第四次大規模珊瑚白化 過半數珊瑚礁陷危機">
+								</div>
+
+								<!-- text -->
+								<div class="art-btn-text art-btn-la-text text-white">
+									<!-- article-categoty -->
+									<!-- <h5 class="text-yellow">
+										<a href="javascript:void(0)" class="text-yellow">
+											科學與新知｜
+										</a>
+									</h5> -->
+
+									<!-- date -->
+									<h6>Apr. 23 2024</h6>
+
+									
+
+									<!-- article title -->
+									<h4>
+										<a href="https://www.natgeomedia.com/environment/article/content-17186.html" class="text-white">
+											NOAA證實：全球第四次大規模珊瑚白化 過半數珊瑚礁陷危機
+										</a>
+									</h4>
+
+									<!-- read btn -->
+									<div class="read-btn text-white">
+										<a class="text-white" href="https://www.natgeomedia.com/environment/article/content-17186.html">
+											<i class="fas fa-align-justify"></i> Read
+										</a>
+									</div>
+
+								</div>
+							</a>
+						</div>
+					</div>
+					
+
+				</div>
+				<!-- END OF article btn large -->
+
+				<!-- article btn small -->
+				<div class="artile-btn-small">
+					
+					
+					<!-- small -->
+					<div class="art-btn-s-content">
+						<a href="https://www.natgeomedia.com/environment/article/content-17173.html">
+							<!-- img -->
+							<div class="art-btn-s-img">
+								<img src="https://img.natgeomedia.com/userfiles/sm/sm154103_images_A1/17173/2024042201315619.jpg" alt="拚觀光也顧生態 小琉球三潮間帶7月起每人收60元海洋保育費">
+							</div>
+
+							<!-- text -->
+							<div class="art-btn-text art-btn-s-text text-black">
+								<!-- article-categoty -->
+								<!-- <h5 class="text-yellow">
+									<a href="javascript:void(0)" class="text-yellow">
+										科學與新知｜
+									</a>
+								</h5> -->
+
+								<!-- date -->
+								<h6>Apr. 22 2024</h6>
+
+								
+
+								<!-- article title -->
+								<h4>
+									<a href="https://www.natgeomedia.com/environment/article/content-17173.html" class="text-black">
+										拚觀光也顧生態 小琉球三潮間帶7月起每人收60元海洋保育費
+									</a>
+								</h4>
+
+								<!-- read btn -->
+								<div class="read-btn text-black desktop-hide mobile-hide">
+									<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17173.html">
+										<i class="fas fa-align-justify"></i> Read
+									</a>
+								</div>
+
+							</div>
+						</a>
+					</div>
+					
+					<!-- small -->
+					<div class="art-btn-s-content">
+						<a href="https://www.natgeomedia.com/environment/article/content-17171.html">
+							<!-- img -->
+							<div class="art-btn-s-img">
+								<img src="https://img.natgeomedia.com/userfiles/sm/sm154103_images_A1/17171/2024042034644253.jpg" alt="生態給付有成效 屏東鳳梨農認「愛心蘋果臉」救了瀕危草鴞">
+							</div>
+
+							<!-- text -->
+							<div class="art-btn-text art-btn-s-text text-black">
+								<!-- article-categoty -->
+								<!-- <h5 class="text-yellow">
+									<a href="javascript:void(0)" class="text-yellow">
+										科學與新知｜
+									</a>
+								</h5> -->
+
+								<!-- date -->
+								<h6>Apr. 20 2024</h6>
+
+								
+
+								<!-- article title -->
+								<h4>
+									<a href="https://www.natgeomedia.com/environment/article/content-17171.html" class="text-black">
+										生態給付有成效 屏東鳳梨農認「愛心蘋果臉」救了瀕危草鴞
+									</a>
+								</h4>
+
+								<!-- read btn -->
+								<div class="read-btn text-black desktop-hide mobile-hide">
+									<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17171.html">
+										<i class="fas fa-align-justify"></i> Read
+									</a>
+								</div>
+
+							</div>
+						</a>
+					</div>
+					
+					<!-- small -->
+					<div class="art-btn-s-content">
+						<a href="https://www.natgeomedia.com/environment/article/content-17168.html">
+							<!-- img -->
+							<div class="art-btn-s-img">
+								<img src="https://img.natgeomedia.com/userfiles/sm/sm154103_images_A1/17168/2024041780563425.jpg" alt="人類破壞已經無法挽回？ 國際地質科學聯合會拒絕宣告「人類世」">
+							</div>
+
+							<!-- text -->
+							<div class="art-btn-text art-btn-s-text text-black">
+								<!-- article-categoty -->
+								<!-- <h5 class="text-yellow">
+									<a href="javascript:void(0)" class="text-yellow">
+										科學與新知｜
+									</a>
+								</h5> -->
+
+								<!-- date -->
+								<h6>Apr. 17 2024</h6>
+
+								
+
+								<!-- article title -->
+								<h4>
+									<a href="https://www.natgeomedia.com/environment/article/content-17168.html" class="text-black">
+										人類破壞已經無法挽回？ 國際地質科學聯合會拒絕宣告「人類世」
+									</a>
+								</h4>
+
+								<!-- read btn -->
+								<div class="read-btn text-black desktop-hide mobile-hide">
+									<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17168.html">
+										<i class="fas fa-align-justify"></i> Read
+									</a>
+								</div>
+
+							</div>
+						</a>
+					</div>
+					
+
+				</div>
+				<!-- END OF article btn small -->
+
+				<div class="clearfix"></div>
+
+
+				
+				<!-- article btn meddle vertical -->
+				<div class="artcle-btn-mv">
+					<!-- middle vertical -->
+					<div class="art-btn-mv-content">
+						<a href="https://www.natgeomedia.com/environment/article/content-17165.html">
+							<!-- img -->
+							<div class="art-btn-mv-img">
+								<img src="https://img.natgeomedia.com/userfiles/sm/sm324216_images_A1/17165/2024041576720409.jpg" alt="臺東寶盛遊樂區恐衝擊保育類珊瑚 15年殭屍環評已動工不用環現差">
+							</div>
+
+							<!-- text -->
+							<div class="art-btn-text art-btn-mv-text text-black">
+								<!-- article-categoty -->
+								<!-- <h5 class="text-yellow">
+									<a href="javascript:void(0)" class="text-yellow">
+										科學與新知｜
+									</a>
+								</h5> -->
+
+								<!-- date -->
+								<h6>Apr. 15 2024</h6>
+
+								
+
+								<!-- article title -->
+								<h4>
+									<a href="https://www.natgeomedia.com/environment/article/content-17165.html" class="text-black">
+										臺東寶盛遊樂區恐衝擊保育類珊瑚 15年殭屍環評已動工不用環現差
+									</a>
+								</h4>
+
+								<!-- read btn -->
+								<div class="read-btn text-black mobile-hide">
+									<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17165.html">
+										<i class="fas fa-align-justify"></i> Read
+									</a>
+								</div>
+
+							</div>
+						</a>
+					</div>
+					
+				</div>
+				<!-- END OF article btn meddle vertical -->
+				
+				<!-- article btn meddle vertical -->
+				<div class="artcle-btn-mv">
+					<!-- middle vertical -->
+					<div class="art-btn-mv-content">
+						<a href="https://www.natgeomedia.com/environment/article/content-17162.html">
+							<!-- img -->
+							<div class="art-btn-mv-img">
+								<img src="https://img.natgeomedia.com/userfiles/sm/sm324216_images_A1/17162/2024041482746737.jpg" alt="化石巨人與蚊子之戰 美多州推動「氣候超級基金」要石油公司為30年碳排買單">
+							</div>
+
+							<!-- text -->
+							<div class="art-btn-text art-btn-mv-text text-black">
+								<!-- article-categoty -->
+								<!-- <h5 class="text-yellow">
+									<a href="javascript:void(0)" class="text-yellow">
+										科學與新知｜
+									</a>
+								</h5> -->
+
+								<!-- date -->
+								<h6>Apr. 14 2024</h6>
+
+								
+
+								<!-- article title -->
+								<h4>
+									<a href="https://www.natgeomedia.com/environment/article/content-17162.html" class="text-black">
+										化石巨人與蚊子之戰 美多州推動「氣候超級基金」要石油公司為30年碳排買單
+									</a>
+								</h4>
+
+								<!-- read btn -->
+								<div class="read-btn text-black mobile-hide">
+									<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17162.html">
+										<i class="fas fa-align-justify"></i> Read
+									</a>
+								</div>
+
+							</div>
+						</a>
+					</div>
+					
+				</div>
+				<!-- END OF article btn meddle vertical -->
+				
+				<!-- article btn meddle vertical -->
+				<div class="artcle-btn-mv">
+					<!-- middle vertical -->
+					<div class="art-btn-mv-content">
+						<a href="https://www.natgeomedia.com/environment/article/content-17158.html">
+							<!-- img -->
+							<div class="art-btn-mv-img">
+								<img src="https://img.natgeomedia.com/userfiles/sm/sm324216_images_A1/17158/2024041075996993.jpg" alt="研究：不只震斷樹 地震改變森林水文 影響可達20年">
+							</div>
+
+							<!-- text -->
+							<div class="art-btn-text art-btn-mv-text text-black">
+								<!-- article-categoty -->
+								<!-- <h5 class="text-yellow">
+									<a href="javascript:void(0)" class="text-yellow">
+										科學與新知｜
+									</a>
+								</h5> -->
+
+								<!-- date -->
+								<h6>Apr. 10 2024</h6>
+
+								
+
+								<!-- article title -->
+								<h4>
+									<a href="https://www.natgeomedia.com/environment/article/content-17158.html" class="text-black">
+										研究：不只震斷樹 地震改變森林水文 影響可達20年
+									</a>
+								</h4>
+
+								<!-- read btn -->
+								<div class="read-btn text-black mobile-hide">
+									<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17158.html">
+										<i class="fas fa-align-justify"></i> Read
+									</a>
+								</div>
+
+							</div>
+						</a>
+					</div>
+					
+				</div>
+				<!-- END OF article btn meddle vertical -->
+				
+
+			</div>
+			
+			<!-- END OF top article link -->
+
+			
+			<!-- AD 970250 -->
+			
+  <script language="javascript">
+  //alert('2190\na')
+  AD_FEEL(2190);
+  </script>
+  
+			<div class="ad-970250"><p class="ad-tip">AD</p><!-- img --><div class="ad-content"><a href="https://www.natgeomedia.com/Redirect/index.asp?ids=2190" target="_blank" rel="noopener noreferrer" class="AD__Banner" data-label="AD_970_250_頻道頁1-攝影大賽_styleA" onclick="ga('send','event','Banner','click','AD_970_250_頻道頁1-攝影大賽_styleA');boulder_gtag('event','AD_Banner_Click',{'event_category':'AD_Banner','event_label':'AD_970_250_頻道頁1-攝影大賽_styleA'});"><picture><source media="(max-width: 1100px)" srcset="https://img.natgeomedia.com/userfiles/images_AD/2024041643728133.jpg"><img src="https://img.natgeomedia.com/userfiles/images_AD/2024041563743235.jpg" alt="ad970250"></picture></a></div></div>
+		
+	<script type="text/javascript">ga('send','event','Banner','view','AD_970_250_頻道頁1-攝影大賽_styleA');</script>
+	<script type="text/javascript">boulder_gtag('event','AD_Banner_View',{'event_category':'AD_Banner','event_label':'AD_970_250_頻道頁1-攝影大賽_styleA'});</script>
+	<script type="text/javascript">var AD_970_250_Category1=1;</script>
+			<!-- END OF AD 970250 -->
+			
+
+			<!-- half article link -->
+			<div class="article-link-w65">
+
+				<!-- LEFT -->
+				
+				<div class="art-w65-left">
+					
+					
+					<!-- article btn meddle horizontal -->
+					<div class="artcle-btn-mh artcle-btn-mh-first">
+						<!-- middle horizontal -->
+						<div class="art-btn-mh-content">
+							<a href="https://www.natgeomedia.com/environment/article/content-17156.html">
+								<!-- img -->
+								<div class="art-btn-mh-img">
+									<img src="https://img.natgeomedia.com/userfiles/sm/sm322214_images_A1/17156/2024040904095144.jpg" alt="不只是「窗殺」！ 紐約人氣貓頭鷹弗拉科屍體驗出鴿皰疹及老鼠藥">
+								</div>
+
+								<!-- text -->
+								<div class="art-btn-text art-btn-mh-text text-black">
+									<!-- article-categoty -->
+									<!-- <h5 class="text-yellow">
+										<a href="javascript:void(0)" class="text-yellow">
+											科學與新知｜
+										</a>
+									</h5> -->
+
+									<!-- date -->
+									<h6>Apr. 09 2024</h6>
+
+									
+
+									<!-- article title -->
+									<h4>
+										<a href="https://www.natgeomedia.com/environment/article/content-17156.html" class="text-black">
+											不只是「窗殺」！ 紐約人氣貓頭鷹弗拉科屍體驗出鴿皰疹及老鼠藥
+										</a>
+									</h4>
+
+									<!-- article intro -->
+									<p class="pad-hide">
+										環境資訊中心綜合外電；曹可芝 編譯；陳文姿 審校
+
+紐約「網紅」貓頭鷹弗拉科（Flaco）2月因窗殺身亡，令無數紐約居民和網友粉絲心碎。檢驗報告3月底出爐，這才發現弗拉科已感染鴿子皰疹病毒（pigeon herpesvirus），體內驗出四種紐約常用的老鼠藥成分，並出現多重器官感染與發炎，這可能才是弗拉科撞上大樓的原因。
+
+									</p>
+
+									<!-- read btn -->
+									<div class="read-btn text-black mobile-hide">
+										<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17156.html">
+											<i class="fas fa-align-justify"></i> Read
+										</a>
+									</div>
+
+								</div>
+							</a>
+						</div>
+						
+					</div>
+					<!-- END OF article btn meddle horizontal -->
+					
+					<!-- article btn meddle horizontal -->
+					<div class="artcle-btn-mh artcle-btn-mh-first">
+						<!-- middle horizontal -->
+						<div class="art-btn-mh-content">
+							<a href="https://www.natgeomedia.com/environment/article/content-17136.html">
+								<!-- img -->
+								<div class="art-btn-mh-img">
+									<img src="https://img.natgeomedia.com/userfiles/sm/sm322214_images_A1/17136/2024040778034577.jpg" alt="全球17個山脈暖化加劇中 威脅高海拔生物多樣性">
+								</div>
+
+								<!-- text -->
+								<div class="art-btn-text art-btn-mh-text text-black">
+									<!-- article-categoty -->
+									<!-- <h5 class="text-yellow">
+										<a href="javascript:void(0)" class="text-yellow">
+											科學與新知｜
+										</a>
+									</h5> -->
+
+									<!-- date -->
+									<h6>Apr. 07 2024</h6>
+
+									
+
+									<!-- article title -->
+									<h4>
+										<a href="https://www.natgeomedia.com/environment/article/content-17136.html" class="text-black">
+											全球17個山脈暖化加劇中 威脅高海拔生物多樣性
+										</a>
+									</h4>
+
+									<!-- article intro -->
+									<p class="pad-hide">
+										整理：陳立炘（環境資訊中心記者）
+
+由於缺乏長期運作的氣象觀測站，全球山區氣候變化的測量，一直是一個大挑戰。近日，由我國中研院生物多樣性研究中心研究員沈聖峰領銜的跨國團隊，首創山區氣候速度推估方式，發現全球17個區域的山脈等溫線，正以每年超過11公尺的速度上升中，表示該地暖化情況嚴重，甚至開始對生存於這些高海拔生態避難所的物種構成威脅。
+
+									</p>
+
+									<!-- read btn -->
+									<div class="read-btn text-black mobile-hide">
+										<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17136.html">
+											<i class="fas fa-align-justify"></i> Read
+										</a>
+									</div>
+
+								</div>
+							</a>
+						</div>
+						
+					</div>
+					<!-- END OF article btn meddle horizontal -->
+					
+					<!-- article btn meddle horizontal -->
+					<div class="artcle-btn-mh artcle-btn-mh-first">
+						<!-- middle horizontal -->
+						<div class="art-btn-mh-content">
+							<a href="https://www.natgeomedia.com/environment/article/content-17135.html">
+								<!-- img -->
+								<div class="art-btn-mh-img">
+									<img src="https://img.natgeomedia.com/userfiles/sm/sm322214_images_A1/17135/2024040701962284.jpg" alt="遊蕩犬侵擾事件頻傳 南部鄉間野鳥天堂處處危機">
+								</div>
+
+								<!-- text -->
+								<div class="art-btn-text art-btn-mh-text text-black">
+									<!-- article-categoty -->
+									<!-- <h5 class="text-yellow">
+										<a href="javascript:void(0)" class="text-yellow">
+											科學與新知｜
+										</a>
+									</h5> -->
+
+									<!-- date -->
+									<h6>Apr. 07 2024</h6>
+
+									
+
+									<!-- article title -->
+									<h4>
+										<a href="https://www.natgeomedia.com/environment/article/content-17135.html" class="text-black">
+											遊蕩犬侵擾事件頻傳 南部鄉間野鳥天堂處處危機
+										</a>
+									</h4>
+
+									<!-- article intro -->
+									<p class="pad-hide">
+										【你來報報】
+
+文：沈嘉偉（臺灣大學社會工作學系碩士生）
+
+野生動物受遊蕩犬攻擊事件頻傳，近日有保育團體在二仁溪畔記錄到草鴞幼鳥遭遊蕩犬咬出巢區，幼鳥最後死亡。3月初，30多個保育團體發起聯合聲明，呼籲主管機關應有積極作為，禁止餵食遊蕩犬，並公開「原生種野生動物受遊蕩犬侵擾改善試辦專案計畫」（簡稱試辦計畫）的在地執行情況。
+
+									</p>
+
+									<!-- read btn -->
+									<div class="read-btn text-black mobile-hide">
+										<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17135.html">
+											<i class="fas fa-align-justify"></i> Read
+										</a>
+									</div>
+
+								</div>
+							</a>
+						</div>
+						
+					</div>
+					<!-- END OF article btn meddle horizontal -->
+					
+					<!-- AD Native Category -->
+					
+  <script language="javascript">
+  //alert('1226\na')
+  AD_FEEL(1226);
+  </script>
+  <!-- article btn meddle horizontal -->
+<div class="artcle-btn-mh artcle-btn-mh-first">
+	<!-- middle horizontal -->
+	<div class="art-btn-mh-content">
+		<!-- NGM_NativeAd_Category1 -->
+		<ins id="g_AD_Native_Category1" class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="" data-ad-client="ca-pub-7474973568305593" data-ad-slot=""></ins>
+		<script type="text/javascript">
+		if($(window).width()<1100){
+		    var g_AD_Native_Category1_LayoutKey="-fv+5e-1w-9a+o2"
+		    var g_AD_Native_Category1_Slot="5542270755"
+		}else{
+		    var g_AD_Native_Category1_LayoutKey="-e8-1x+hw-54-ep"
+		    var g_AD_Native_Category1_Slot="2607441068"
+		}
+		$('#g_AD_Native_Category1').attr('data-ad-layout-key',g_AD_Native_Category1_LayoutKey);
+		$('#g_AD_Native_Category1').attr('data-ad-slot',g_AD_Native_Category1_Slot);
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+</div>
+	<script type="text/javascript">ga('send','event','Banner','view','AD_原生廣告_頻道頁1-Google AdSense');</script>
+	<script type="text/javascript">boulder_gtag('event','AD_Banner_View',{'event_category':'AD_Banner','event_label':'AD_原生廣告_頻道頁1-Google AdSense'});</script>
+	<script type="text/javascript">var AD_Native_Category1=1;</script>
+					<!-- END OF AD Native Category -->
+					
+					<!-- article btn meddle horizontal -->
+					<div class="artcle-btn-mh artcle-btn-mh-first">
+						<!-- middle horizontal -->
+						<div class="art-btn-mh-content">
+							<a href="https://www.natgeomedia.com/environment/article/content-17133.html">
+								<!-- img -->
+								<div class="art-btn-mh-img">
+									<img src="https://img.natgeomedia.com/userfiles/sm/sm322214_images_A1/17133/2024040581840025.jpg" alt="赤腹游蛇改列「瀕臨絕種」 足跡僅剩北部 保育可領生態給付獎勵">
+								</div>
+
+								<!-- text -->
+								<div class="art-btn-text art-btn-mh-text text-black">
+									<!-- article-categoty -->
+									<!-- <h5 class="text-yellow">
+										<a href="javascript:void(0)" class="text-yellow">
+											科學與新知｜
+										</a>
+									</h5> -->
+
+									<!-- date -->
+									<h6>Apr. 05 2024</h6>
+
+									
+
+									<!-- article title -->
+									<h4>
+										<a href="https://www.natgeomedia.com/environment/article/content-17133.html" class="text-black">
+											赤腹游蛇改列「瀕臨絕種」 足跡僅剩北部 保育可領生態給付獎勵
+										</a>
+									</h4>
+
+									<!-- article intro -->
+									<p class="pad-hide">
+										整理：袁慧妍（環境資訊中心記者）
+
+棲息於淡水濕地的赤腹游蛇（Trimerodytes annularis），過去50年因土地開發致棲地消失、農藥汙染等因素，殘存的存族群數量岌岌可危，目前僅剩北部有記錄蹤跡，新竹以南恐已絕跡。農業部公布，4月2日起將珍貴稀有的赤腹游蛇改列為瀕臨絕種保育類野生動物，且由於去（2023）年已納入生態服務給付，民眾參與保育可領3萬至6萬元的獎勵金。
+
+									</p>
+
+									<!-- read btn -->
+									<div class="read-btn text-black mobile-hide">
+										<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17133.html">
+											<i class="fas fa-align-justify"></i> Read
+										</a>
+									</div>
+
+								</div>
+							</a>
+						</div>
+						
+					</div>
+					<!-- END OF article btn meddle horizontal -->
+					
+					<!-- large -->
+					<div class="art-btn-la-content">
+						<a href="https://www.natgeomedia.com/environment/article/content-17131.html">
+							<!-- img -->
+							<div class="art-btn-la-img">
+								<img src="https://img.natgeomedia.com/userfiles/sm/sm804536_images_A1/17131/2024040277746545.jpg" alt="專訪《鯨聲鯨視必修課》湛翔智︰臺灣首本水下噪音評測書，再為鯨豚發聲">
+							</div>
+
+							<!-- text -->
+							<div class="art-btn-text art-btn-la-text text-white">
+								<!-- article-categoty -->
+								<!-- <h5 class="text-yellow">
+									<a href="javascript:void(0)" class="text-yellow">
+										科學與新知｜
+									</a>
+								</h5> -->
+
+								<!-- date -->
+								<h6>Apr. 02 2024</h6>
+
+								
+
+								<!-- article title -->
+								<h4>
+									<a href="https://www.natgeomedia.com/environment/article/content-17131.html" class="text-white">
+										專訪《鯨聲鯨視必修課》湛翔智︰臺灣首本水下噪音評測書，再為鯨豚發聲
+									</a>
+								</h4>
+
+								<!-- read btn -->
+								<div class="read-btn text-white">
+									<a class="text-white" href="https://www.natgeomedia.com/environment/article/content-17131.html">
+										<i class="fas fa-align-justify"></i> Read
+									</a>
+								</div>
+
+							</div>
+						</a>
+					</div>
+					
+					<!-- article btn meddle horizontal -->
+					<div class="artcle-btn-mh artcle-btn-mh-first">
+						<!-- middle horizontal -->
+						<div class="art-btn-mh-content">
+							<a href="https://www.natgeomedia.com/environment/article/content-17129.html">
+								<!-- img -->
+								<div class="art-btn-mh-img">
+									<img src="https://img.natgeomedia.com/userfiles/sm/sm322214_images_A1/17129/2024040184213577.jpg" alt="科幻經典《沙丘》真實版 俄勒岡沙丘「地球化」的故事未完待續">
+								</div>
+
+								<!-- text -->
+								<div class="art-btn-text art-btn-mh-text text-black">
+									<!-- article-categoty -->
+									<!-- <h5 class="text-yellow">
+										<a href="javascript:void(0)" class="text-yellow">
+											科學與新知｜
+										</a>
+									</h5> -->
+
+									<!-- date -->
+									<h6>Apr. 01 2024</h6>
+
+									
+
+									<!-- article title -->
+									<h4>
+										<a href="https://www.natgeomedia.com/environment/article/content-17129.html" class="text-black">
+											科幻經典《沙丘》真實版 俄勒岡沙丘「地球化」的故事未完待續
+										</a>
+									</h4>
+
+									<!-- article intro -->
+									<p class="pad-hide">
+										環境資訊中心綜合外電；曹可芝 編譯； 孫依婷 審校
+
+蒼茫大地上，渴求安居的人類試圖「馴服」自然，藉由「地球化」（terraformed）技術讓黃土漫天的環境變得適宜人居。
+
+									</p>
+
+									<!-- read btn -->
+									<div class="read-btn text-black mobile-hide">
+										<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17129.html">
+											<i class="fas fa-align-justify"></i> Read
+										</a>
+									</div>
+
+								</div>
+							</a>
+						</div>
+						
+					</div>
+					<!-- END OF article btn meddle horizontal -->
+					
+					<!-- article btn meddle horizontal -->
+					<div class="artcle-btn-mh artcle-btn-mh-first">
+						<!-- middle horizontal -->
+						<div class="art-btn-mh-content">
+							<a href="https://www.natgeomedia.com/environment/article/content-17128.html">
+								<!-- img -->
+								<div class="art-btn-mh-img">
+									<img src="https://img.natgeomedia.com/userfiles/sm/sm322214_images_A1/17128/2024040183309969.jpg" alt="這種亞馬遜巨鯰會進行世界上最長的淡水魚遷徙">
+								</div>
+
+								<!-- text -->
+								<div class="art-btn-text art-btn-mh-text text-black">
+									<!-- article-categoty -->
+									<!-- <h5 class="text-yellow">
+										<a href="javascript:void(0)" class="text-yellow">
+											科學與新知｜
+										</a>
+									</h5> -->
+
+									<!-- date -->
+									<h6>Apr. 01 2024</h6>
+
+									
+
+									<!-- article title -->
+									<h4>
+										<a href="https://www.natgeomedia.com/environment/article/content-17128.html" class="text-black">
+											這種亞馬遜巨鯰會進行世界上最長的淡水魚遷徙
+										</a>
+									</h4>
+
+									<!-- article intro -->
+									<p class="pad-hide">
+										新研究顯示，這是全世界距離最長的淡水魚遷徙，因此為這種特殊的動物帶來許多危險。
+
+									</p>
+
+									<!-- read btn -->
+									<div class="read-btn text-black mobile-hide">
+										<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17128.html">
+											<i class="fas fa-align-justify"></i> Read
+										</a>
+									</div>
+
+								</div>
+							</a>
+						</div>
+						
+					</div>
+					<!-- END OF article btn meddle horizontal -->
+					
+					<!-- AD Native Category -->
+					
+  <script language="javascript">
+  //alert('1227\na')
+  AD_FEEL(1227);
+  </script>
+  <!-- article btn meddle horizontal -->
+<div class="artcle-btn-mh artcle-btn-mh-first">
+	<!-- middle horizontal -->
+	<div class="art-btn-mh-content">
+		<!-- NGM_NativeAd_Category2 -->
+		<ins id="g_AD_Native_Category2" class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="" data-ad-client="ca-pub-7474973568305593" data-ad-slot=""></ins>
+		<script type="text/javascript">
+		if($(window).width()<1100){
+		    var g_AD_Native_Category2_LayoutKey="-fv+5e-1w-9a+o2"
+		    var g_AD_Native_Category2_Slot="4060941775"
+		}else{
+		    var g_AD_Native_Category2_LayoutKey="-ec-1x+hw-54-ep"
+		    var g_AD_Native_Category2_Slot="4088043690"
+		}
+		$('#g_AD_Native_Category2').attr('data-ad-layout-key',g_AD_Native_Category2_LayoutKey);
+		$('#g_AD_Native_Category2').attr('data-ad-slot',g_AD_Native_Category2_Slot);
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+</div>
+	<script type="text/javascript">ga('send','event','Banner','view','AD_原生廣告_頻道頁2-Google AdSense');</script>
+	<script type="text/javascript">boulder_gtag('event','AD_Banner_View',{'event_category':'AD_Banner','event_label':'AD_原生廣告_頻道頁2-Google AdSense'});</script>
+	<script type="text/javascript">var AD_Native_Category2=1;</script>
+					<!-- END OF AD Native Category -->
+					
+					<!-- article btn meddle horizontal -->
+					<div class="artcle-btn-mh artcle-btn-mh-first">
+						<!-- middle horizontal -->
+						<div class="art-btn-mh-content">
+							<a href="https://www.natgeomedia.com/environment/photo/content-17154.html">
+								<!-- img -->
+								<div class="art-btn-mh-img">
+									<img src="https://img.natgeomedia.com/userfiles/sm/sm322214_images_A1/17154/2024040851762121.jpg" alt="暖化之焰中的北極熊">
+								</div>
+
+								<!-- text -->
+								<div class="art-btn-text art-btn-mh-text text-black">
+									<!-- article-categoty -->
+									<!-- <h5 class="text-yellow">
+										<a href="javascript:void(0)" class="text-yellow">
+											科學與新知｜
+										</a>
+									</h5> -->
+
+									<!-- date -->
+									<h6>Mar. 27 2024</h6>
+
+									
+
+									<!-- article title -->
+									<h4>
+										<a href="https://www.natgeomedia.com/environment/photo/content-17154.html" class="text-black">
+											暖化之焰中的北極熊
+										</a>
+									</h4>
+
+									<!-- article intro -->
+									<p class="pad-hide">
+										這張照片攝於北極熊最南端的棲地，加拿大曼尼托巴省的邱吉爾。照片中的北極熊宛如置身烈焰之中，正是全球暖化／氣候變遷衝擊的寫照。由於哈德遜灣結冰的時間縮短，連帶使得北極熊能捕捉獵物的時間減少，挨餓的時間增加，導致熊和幼熊營養不良。
+
+本作品來自《國家地理》攝影社群 Your Shot。
+
+									</p>
+
+									<!-- read btn -->
+									<div class="read-btn text-black mobile-hide">
+										<a class="text-black" href="https://www.natgeomedia.com/environment/photo/content-17154.html">
+											<i class="fas fa-align-justify"></i> Read
+										</a>
+									</div>
+
+								</div>
+							</a>
+						</div>
+						
+					</div>
+					<!-- END OF article btn meddle horizontal -->
+					
+
+
+					<!-- PAGE SWITCH -->
+					<div class="page-switch">
+						<ul>
+							<!-- << --><li class="page-switch-disable"><a href="javascript:void(0)"><i class="fas fa-angle-double-left"></i></a></li>
+<!-- < --><li><a href="javascript:void(0)"><i class="fas fa-angle-left"></i></a></li>
+<!-- number --><li class="page-switch-active"><a href="/environment/index.html?iPage=1">1</a></li>
+<!-- number --><li><a href="/environment/index.html?iPage=2">2</a></li>
+<!-- number --><li><a href="/environment/index.html?iPage=3">3</a></li>
+<!-- number --><li><a href="/environment/index.html?iPage=4">4</a></li>
+<!-- number --><li><a href="/environment/index.html?iPage=5">5</a></li>
+<!-- > --><li><a href="/environment/index.html?iPage=2"><i class="fas fa-angle-right"></i></a></li>
+<!-- >> --><li><a href="/environment/index.html?iPage=325"><i class="fas fa-angle-double-right"></i></a></li>
+
+						</ul>
+					</div>
+
+				</div>
+				
+
+
+				<!-- RIGHT -->
+
+
+				<div id="right-fixed" class="art-w65-right">
+					<div class="art-w65-right-wrap">
+						
+						<!-- MAGAZINE AD -->
+						<div class="magazine-ad">
+							<div class="mag-ad-content">
+								<h6>APR. 2024</h6>
+								<h4>真菌潛力無限的奇妙世界</h4>
+								<p>
+									這個鮮為人知的龐大生命網路，如何影響地球萬物與人類未來
+								</p>
+
+								<div class="mag-ad-cover">
+									<img src="https://img.natgeomedia.com/userfiles/sm/sm299437_images_BE2/2024040134091174.jpg" alt="真菌潛力無限的奇妙世界">
+								</div>
+							</div>
+
+							<a href="https://www.natgeomedia.com/e-mag/2024/04/"></a>
+						</div>
+						
+						<!-- AD 300250 -->
+						
+  <script language="javascript">
+  //alert('1516\na')
+  AD_FEEL(1516);
+  </script>
+  <script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+googletag.defineSlot('/131316807/SF_NGM_AD_300x250_Category_300x250', [300, 250], 'div-gpt-ad-1592885154212-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+});
+</script>
+
+<div class="ad-300250"><p class="ad-tip">AD</p><!-- img --><div class="ad-content">
+	<!-- /131316807/SF_NGM_AD_300x250_Category_300x250 -->
+	<div id='div-gpt-ad-1592885154212-0' style='width: 300px; height: 250px;'>
+	<script>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1592885154212-0'); });
+	</script>
+	</div>
+</div></div>
+	<script type="text/javascript">ga('send','event','Banner','view','AD_300_250_頻道頁-3rd Party Ads Display Network');</script>
+	<script type="text/javascript">boulder_gtag('event','AD_Banner_View',{'event_category':'AD_Banner','event_label':'AD_300_250_頻道頁-3rd Party Ads Display Network'});</script>
+	<script type="text/javascript">var AD_300_250_Category=1;</script>
+						<!-- END OF AD 300250 -->
+						
+
+						<!-- article link RIGHT -->
+						<div class="article-link-right">
+							<h3>熱門精選</h3>
+							<div class="art-link-right-content">
+								
+
+								<!-- X-small -->
+								<div class="art-btn-xs-content">
+									<a href="https://www.natgeomedia.com/science/article/content-17174.html">
+										<!-- img -->
+										<div class="art-btn-xs-img">
+											<img src="https://img.natgeomedia.com/userfiles/sm/sm10067_images_A1/17174/2024042203975397.jpg" alt="如果你死了，你的狗會吃你嗎？">
+										</div>
+
+										<!-- text -->
+										<div class="art-btn-text art-btn-xs-text text-black">
+											<!-- article-categoty -->
+											<h5 class="text-yellow">
+												<a href="/science/" class="text-yellow">
+													科學與新知｜
+												</a>
+											</h5>
+
+											<!-- date -->
+											
+											<h6>Apr.22 2024</h6>
+											
+
+											<!-- article title -->
+											<h4>
+												<a href="https://www.natgeomedia.com/science/article/content-17174.html" class="text-black">
+													如果你死了，你的狗會吃你嗎？
+												</a>
+											</h4>
+
+											<!-- read btn -->
+											<div class="read-btn text-black desktop-hide mobile-hide">
+												<a class="text-black" href="https://www.natgeomedia.com/science/article/content-17174.html">
+													<i class="fas fa-align-justify"></i> Read
+												</a>
+											</div>
+
+										</div>
+									</a>
+								</div>
+								<!-- END OF X-Small -->
+
+    
+	<!-- AD Native ArticlePoP -->
+	
+  <script language="javascript">
+  //alert('1239\na')
+  AD_FEEL(1239);
+  </script>
+  <!-- X-small -->
+<div class="art-btn-xs-content">
+        <!-- NGM_NativeAd_ArticlePoP -->
+        <ins id="g_AD_Native_ArticlePoP" class="adsbygoogle" style="max-height:89px;display:block" data-ad-format="fluid" data-ad-layout-key="" data-ad-client="ca-pub-7474973568305593" data-ad-slot=""></ins>
+        <script type="text/javascript">
+        if($(window).width()<1100){
+            var g_AD_Native_ArticlePoP_LayoutKey="-gf+5e-1w-9a+o2"
+            var g_AD_Native_ArticlePoP_Slot="9080493840"
+        }else{
+            var g_AD_Native_ArticlePoP_LayoutKey="-gh+5d-1m-9j+ng"
+            var g_AD_Native_ArticlePoP_Slot="1955492925"
+        }
+        $('#g_AD_Native_ArticlePoP').attr('data-ad-layout-key',g_AD_Native_ArticlePoP_LayoutKey);
+        $('#g_AD_Native_ArticlePoP').attr('data-ad-slot',g_AD_Native_ArticlePoP_Slot);
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+</div>
+	<script type="text/javascript">ga('send','event','Banner','view','AD_原生廣告_熱門精選-Google AdSense');</script>
+	<script type="text/javascript">boulder_gtag('event','AD_Banner_View',{'event_category':'AD_Banner','event_label':'AD_原生廣告_熱門精選-Google AdSense'});</script>
+	<script type="text/javascript">var AD_Native_ArticlePoP=1;</script>
+	<!-- END OF AD Native ArticlePoP -->
+	
+
+								<!-- X-small -->
+								<div class="art-btn-xs-content">
+									<a href="https://www.natgeomedia.com/environment/article/content-7033.html">
+										<!-- img -->
+										<div class="art-btn-xs-img">
+											<img src="https://img.natgeomedia.com/userfiles/sm/sm10067_images_A1/7033/2019030569013449.jpg" alt="消失幾十年後野外現蹤！世界上最大的切葉蜂原來沒絕種">
+										</div>
+
+										<!-- text -->
+										<div class="art-btn-text art-btn-xs-text text-black">
+											<!-- article-categoty -->
+											<h5 class="text-yellow">
+												<a href="/environment/" class="text-yellow">
+													環境與保育｜
+												</a>
+											</h5>
+
+											<!-- date -->
+											
+											<h6>Mar.05 2019</h6>
+											
+
+											<!-- article title -->
+											<h4>
+												<a href="https://www.natgeomedia.com/environment/article/content-7033.html" class="text-black">
+													消失幾十年後野外現蹤！世界上最大的切葉蜂原來沒絕種
+												</a>
+											</h4>
+
+											<!-- read btn -->
+											<div class="read-btn text-black desktop-hide mobile-hide">
+												<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-7033.html">
+													<i class="fas fa-align-justify"></i> Read
+												</a>
+											</div>
+
+										</div>
+									</a>
+								</div>
+								<!-- END OF X-Small -->
+
+    
+
+								<!-- X-small -->
+								<div class="art-btn-xs-content">
+									<a href="https://www.natgeomedia.com/science/article/content-9240.html">
+										<!-- img -->
+										<div class="art-btn-xs-img">
+											<img src="https://img.natgeomedia.com/userfiles/sm/sm10067_images_A1/9240/2019082152578689.jpg" alt="幽默啊！你的名字難道是婚姻的謀殺者？">
+										</div>
+
+										<!-- text -->
+										<div class="art-btn-text art-btn-xs-text text-black">
+											<!-- article-categoty -->
+											<h5 class="text-yellow">
+												<a href="/science/" class="text-yellow">
+													科學與新知｜
+												</a>
+											</h5>
+
+											<!-- date -->
+											
+											<h6>Aug.21 2019</h6>
+											
+
+											<!-- article title -->
+											<h4>
+												<a href="https://www.natgeomedia.com/science/article/content-9240.html" class="text-black">
+													幽默啊！你的名字難道是婚姻的謀殺者？
+												</a>
+											</h4>
+
+											<!-- read btn -->
+											<div class="read-btn text-black desktop-hide mobile-hide">
+												<a class="text-black" href="https://www.natgeomedia.com/science/article/content-9240.html">
+													<i class="fas fa-align-justify"></i> Read
+												</a>
+											</div>
+
+										</div>
+									</a>
+								</div>
+								<!-- END OF X-Small -->
+
+    
+
+								<!-- X-small -->
+								<div class="art-btn-xs-content">
+									<a href="https://www.natgeomedia.com/environment/article/content-17171.html">
+										<!-- img -->
+										<div class="art-btn-xs-img">
+											<img src="https://img.natgeomedia.com/userfiles/sm/sm10067_images_A1/17171/2024042034644253.jpg" alt="生態給付有成效 屏東鳳梨農認「愛心蘋果臉」救了瀕危草鴞">
+										</div>
+
+										<!-- text -->
+										<div class="art-btn-text art-btn-xs-text text-black">
+											<!-- article-categoty -->
+											<h5 class="text-yellow">
+												<a href="/environment/" class="text-yellow">
+													環境與保育｜
+												</a>
+											</h5>
+
+											<!-- date -->
+											
+											<h6>Apr.20 2024</h6>
+											
+
+											<!-- article title -->
+											<h4>
+												<a href="https://www.natgeomedia.com/environment/article/content-17171.html" class="text-black">
+													生態給付有成效 屏東鳳梨農認「愛心蘋果臉」救了瀕危草鴞
+												</a>
+											</h4>
+
+											<!-- read btn -->
+											<div class="read-btn text-black desktop-hide mobile-hide">
+												<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-17171.html">
+													<i class="fas fa-align-justify"></i> Read
+												</a>
+											</div>
+
+										</div>
+									</a>
+								</div>
+								<!-- END OF X-Small -->
+
+    
+
+								<!-- X-small -->
+								<div class="art-btn-xs-content">
+									<a href="https://www.natgeomedia.com/environment/article/content-14865.html">
+										<!-- img -->
+										<div class="art-btn-xs-img">
+											<img src="https://img.natgeomedia.com/userfiles/sm/sm10067_images_A1/14865/2022021441709141.jpg" alt="北冰洋發現靠吃化石維生的海棉群落">
+										</div>
+
+										<!-- text -->
+										<div class="art-btn-text art-btn-xs-text text-black">
+											<!-- article-categoty -->
+											<h5 class="text-yellow">
+												<a href="/environment/" class="text-yellow">
+													環境與保育｜
+												</a>
+											</h5>
+
+											<!-- date -->
+											
+											<h6>Feb.14 2022</h6>
+											
+
+											<!-- article title -->
+											<h4>
+												<a href="https://www.natgeomedia.com/environment/article/content-14865.html" class="text-black">
+													北冰洋發現靠吃化石維生的海棉群落
+												</a>
+											</h4>
+
+											<!-- read btn -->
+											<div class="read-btn text-black desktop-hide mobile-hide">
+												<a class="text-black" href="https://www.natgeomedia.com/environment/article/content-14865.html">
+													<i class="fas fa-align-justify"></i> Read
+												</a>
+											</div>
+
+										</div>
+									</a>
+								</div>
+								<!-- END OF X-Small -->
+
+    
+							</div>
+						</div>
+						<!-- END OF article link RIGHT -->
+
+						
+						<!-- AD 300600 -->
+						
+  <script language="javascript">
+  //alert('1513\na')
+  AD_FEEL(1513);
+  </script>
+  <script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/131316807/SF_NGM_RWD_NGM_AD_300_600_Category', [[300, 250], [300, 600]], 'div-gpt-ad-1592446405987-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<div class="ad-300600"><p class="ad-tip">AD</p><!-- img --><div class="ad-content">
+  <!-- /131316807/SF_NGM_RWD_NGM_AD_300_600_Category -->
+  <div id='div-gpt-ad-1592446405987-0'>
+    <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1592446405987-0'); });
+    </script>
+  </div>
+</div></div>
+	<script type="text/javascript">ga('send','event','Banner','view','AD_300_600_頻道頁-3rd Party Ads Display Network');</script>
+	<script type="text/javascript">boulder_gtag('event','AD_Banner_View',{'event_category':'AD_Banner','event_label':'AD_300_600_頻道頁-3rd Party Ads Display Network'});</script>
+	<script type="text/javascript">var AD_300_600_Category=1;</script>
+						<!-- END OF AD 300600 -->
+						
+
+					</div>
+
+				</div>
+
+				
+
+			</div>
+			<!-- END OF half article link -->
+
+			
+			<!-- AD 970250 -->
+			
+  <script language="javascript">
+  //alert('1510\na')
+  AD_FEEL(1510);
+  </script>
+  <script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/131316807/SF_NGM_RWD_NGM_AD_970_250_Category2', [[970, 250], [300, 250]], 'div-gpt-ad-1592446528216-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<div class="ad-970250"><p class="ad-tip">AD</p><!-- img --><div class="ad-content">
+  <!-- /131316807/SF_NGM_RWD_NGM_AD_970_250_Category2 -->
+  <div id='div-gpt-ad-1592446528216-0'>
+    <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1592446528216-0'); });
+    </script>
+  </div>
+</div></div>
+	<script type="text/javascript">ga('send','event','Banner','view','AD_970_250_頻道頁2-3rd Party Ads Display Network');</script>
+	<script type="text/javascript">boulder_gtag('event','AD_Banner_View',{'event_category':'AD_Banner','event_label':'AD_970_250_頻道頁2-3rd Party Ads Display Network'});</script>
+	<script type="text/javascript">var AD_970_250_Category2=1;</script>
+			<!-- END OF AD 970250 -->
+			
+			
+		</div>
+
+
+	</section>
+
+
+
+
+
+<!-- <div style="display:none;"><iframe frameborder="0" scrolling="no" id="dadframe" width="1" height="1" style="display:inline;margin: 0;padding: 0; " src="/js/ad.html?t=201711161239"></iframe></div> -->
+
+	<!-- subscribe -->
+	<section class="subscribe-area" id="subscribe-edm-area">
+		<div class="subscribe-area-content">
+			<!-- title -->
+			<div class="section-title text-black">
+				<div class="section-title-eng">Subscribe</div>
+				<div class="section-title-cht">立即訂閱</div>
+			</div>
+
+			<!-- email input -->
+			<div class="input-text">
+				<input type="email" id="EdmEmail" class="text-input" placeholder="請輸入E-mail" onkeypress="if(event.keyCode==13){$('#FormEdmSubmit').trigger('click');}">
+				<button type="button" id="FormEdmSubmit" class="input-submit-btn">
+					<i class="fas fa-arrow-right"></i>
+				</button>
+			</div>
+
+		</div>
+	</section>
+
+	<script type="text/javascript">
+	$(function(){
+		$('#FormEdmSubmit').click(function(){
+
+			if($('#EdmEmail').val()==''){
+				alert('請輸入E-Mail!!');
+				$('#EdmEmail').focus();
+			}else{
+				var regExpEmail=/^[_a-z0-9-]+([.][_a-z0-9-]+)*@[a-z0-9-]+([.][a-z0-9-]+)*.[a-z0-9-]+([.][a-z0-9-]+)/;
+				if($('#EdmEmail').val().match(regExpEmail)){
+					ga('send','event','Button','click','Subscribe EDM');
+					$.ajax({
+						url:'/member/subscribe-edm.asp',
+						type:'GET',
+						data:{email:$('#EdmEmail').val()},
+						dataType:'json',
+						success: function(Jdata) {
+							alert(Jdata.msg);
+							if(parseInt(Jdata.err)==0){
+								$('#EdmEmail').val('');
+							}
+						},
+						error: function() {
+							alert("subscribe-edm ERROR!!!");
+						}
+					});
+				}else{
+					alert('E-Mail輸入有誤!!!');
+					$('#EdmEmail').focus();
+				}
+			}
+		});
+	});
+	</script>
+
+	
+
+	<!-- footer -->
+	<footer>
+		<div class="footer-container">
+			
+			<div class="footer-logo">
+				<a href="/"><img src="/img/ngm-logo-w.svg" alt=""></a>
+			</div>
+
+			<div class="footer-social">
+				<p>Follow Us</p>
+				<ul>
+					<li>
+						<a href="https://www.facebook.com/natgeomedia" target="_blank" rel="noopener noreferrer">
+							<i class="fab fa-facebook-square"></i>
+						</a>
+					</li>
+
+					<li>
+						<a href="https://www.instagram.com/natgeo.media/" target="_blank" rel="noopener noreferrer">
+							<i class="fab fa-instagram"></i>
+						</a>
+					</li>
+
+					<li>
+						<a href="https://www.youtube.com/channel/UCtmb2nQhbT2rxxpmbdRjvVg" target="_blank" rel="noopener noreferrer">
+							<i class="fab fa-youtube"></i>
+						</a>
+					</li>
+
+					<!-- <li>
+						<a href="https://line.me/R/ti/p/%40bme3649c" target="_blank" rel="noopener noreferrer">
+							<i class="fab fa-line"></i>
+						</a>
+					</li> -->
+
+					
+					
+					<li>
+						<a href="https://twitter.com/tc_natgeo" target="_blank" rel="noopener noreferrer">
+							<img src="/img/twitter-x.svg" alt="twitter">
+						</a>
+					</li>
+					
+					<li>
+						<a href="https://www.threads.net/@natgeo.media" target="_blank" rel="noopener noreferrer">
+							<img src="/img/threads-logo.svg" alt="threads">
+						</a>
+					</li>
+
+					<li>
+						<a href="https://t.me/natgeomedia" target="_blank" rel="noopener noreferrer">
+							<i class="fab fa-telegram-plane"></i>
+						</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="clearfix"></div>
+
+			<div class="footer-link">
+				<ul>
+					<li>
+						<a href="/aboutus.html">
+							關於我們
+						</a>
+					</li>
+
+					<li>
+						<a href="https://www.nationalgeographic.com/" target="_blank" rel="noopener noreferrer">
+							美國國家地理
+						</a>
+					</li>
+
+					<li>
+						<a href="/term.html">
+							相關聲明條款
+						</a>
+					</li>
+					
+					<li>
+						<a href="/qa.html">
+							常見問題
+						</a>
+					</li>
+
+					<li>
+						<!-- <a href="/file/mediakit.pdf" target="_blank"> -->
+						<a href="javascript:void(0)">
+							廣告刊登
+						</a>
+					</li>
+
+					<li>
+						<a href="/magazine.html">
+							雜誌訂閱
+						</a>
+					</li>
+
+					<li>
+						<a href="https://shopee.tw/natgeomediatw" target="_blank" rel="noopener noreferrer">
+							大石商城
+						</a>
+					</li>
+
+					<li>
+						<a href="https://www.natgeomedia.com/scienceclub/" target="_blank">
+							少年科學俱樂部
+						</a>
+					</li>
+
+				</ul>
+			</div>
+
+			<div class="footer-copyright">
+				<p>
+					服務時間：週一至週五 09:00-18:00  <br class="footer-mobile">客服信箱：cservice@natgeomedia.com ｜ 客服電話：防疫期間遠端工作，請多加利用E-Mail與我們聯繫，謝謝。 <!-- (02) 2697-1658 -->
+				</p>
+				<p>© 2024 Boulder Media Inc, Taiwan / National Geographic</p>
+			</div>
+
+		</div>
+	</footer>
+	
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZNPVHG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+<!-- End Google Tag Manager (noscript) -->
+
+
+<!-- Google Analytics -->
+<!-- <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-48305649-1', 'auto');
+	ga('send', 'pageview');
+
+	setTimeout("ga('send', 'event', '1_seconds', 'read')",1000);
+</script> -->
+
+
+<!-- 20190403 comScore Tag Add to GTM -->
+<!-- Begin comScore Tag -->
+	<script>
+		var _comscore = _comscore || [];
+		_comscore.push({ c1: "2", c2: "27163232" });
+		(function() {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		})();
+	</script>
+	<noscript>
+		<img src="https://sb.scorecardresearch.com/p?c1=2&c2=27163232&cv=2.0&cj=1" />
+	</noscript>
+<!-- End comScore Tag -->
+
+
+<!-- 20190403 Facebook Pixel Add to GTM -->
+<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '279214589239037'); 
+	fbq('track', 'PageView');
+	</script>
+
+	<noscript>
+		<img height="1" width="1" src="https://www.facebook.com/tr?id=279214589239037&ev=PageView&noscript=1"/>
+	</noscript>
+<!-- End Facebook Pixel Code -->
+
+<iframe frameborder="0" scrolling="no" id="dadframe" width="1" height="1" style="display:inline;margin: 0;padding: 0; " src="/js/ad.html?t=20231013"></iframe>
+	
+
+	<!--top-->
+	<div id="gotop">
+		<i class="material-icons">keyboard_arrow_up</i>
+	</div>
+
+	
+  <script language="javascript">
+  //alert('87\na')
+  AD_FEEL(87);
+  </script>
+  <script type="text/javascript">var AD_Cover=0;</script>
+  <script language="javascript">
+  //alert('2193\na')
+  AD_FEEL(2193);
+  </script>
+  
+				<!-- AD fixed --><div id="ad-fixed" class="ad-fixed"><p class="ad-tip">AD</p><!-- img --><div class="ad-content"><a href="https://www.natgeomedia.com/Redirect/index.asp?ids=2193" target="_blank" rel="noopener noreferrer" data-label="AD_置底蓋板廣告-攝影大賽_styleA" onclick="ga('send','event','Banner','click','AD_置底蓋板廣告-攝影大賽_styleA');boulder_gtag('event','AD_Banner_Click',{'event_category':'AD_Banner','event_label':'AD_置底蓋板廣告-攝影大賽_styleA'});'"><picture><source media="(max-width: 1100px)" srcset="https://img.natgeomedia.com/userfiles/images_AD/2024041563797122.jpg"><img src="https://img.natgeomedia.com/userfiles/images_AD/2024041563797121.jpg" alt="ad970250"></picture></a><div class="ad-close" onclick="ga('send','event','Banner','close_click','AD_置底蓋板廣告-攝影大賽_styleA');boulder_gtag('event','AD_Banner_CloseClick',{'event_category':'AD_Banner','event_label':'AD_置底蓋板廣告-攝影大賽_styleA'});"><i class="fas fa-times"></i></div></div></div><!-- END OF AD fixed -->
+
+				<script src="/js/ads-fixed.js"></script>
+			
+		<script type="text/javascript">ga('send','event','Banner','view','AD_置底蓋板廣告-攝影大賽_styleA');</script>
+		<script type="text/javascript">boulder_gtag('event','AD_Banner_View',{'event_category':'AD_Banner','event_label':'AD_置底蓋板廣告-攝影大賽_styleA'});</script>
+		<script type="text/javascript">var AD_FixedCover=1;</script>
+
+	<script src="/js/main.js"></script>
+
+
+	
+</body>
+</html>
